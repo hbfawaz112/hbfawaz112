@@ -57,6 +57,8 @@ Talk to me about
 ## Hello World!! 🤔
 - 💬 Ask me about anything and everything.
 <hr>
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hbfawaz112&show_icons=truee&theme=radical" alt="hadihassan09" />
-</a>
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbfawaz112&theme=radical&langs_count=6" alt="hbfawaz112" />
+ <img src="https://github-readme-stats.vercel.app/api?username=hbfawaz112&show_icons=truee&theme=radical" alt="hbfawaz112" />
+</div> 
