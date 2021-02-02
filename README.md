@@ -6,9 +6,9 @@
 [![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/hbfawaz112) 
  [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hbfawaz112@gmail.com)
  
-I am Hussein Bassam Fawaz 🧔
+<h2>I am Hussein Bassam Fawaz 🧔</h2>
 
-I live in Lebanon and studying computer science at Lebanese University - Faculty Of Science - Master's Degree🏫. 
+<h4>I live in Lebanon and studying computer science at Lebanese University - Faculty Of Science - Master's Degree🏫.</h4>
 
 ### Connect with me:
 
