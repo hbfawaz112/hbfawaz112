@@ -8,7 +8,7 @@
  
 <h2>I am Hussein B. Fawaz 🧔</h2>
 
-<h4>I live in Lebanon and studying computer science at Lebanese University - Faculty Of Science - Master's Degree🏫.</h4>
+<h4>I live in Lebanon and  currently studying master's in computer science at Lebanese University.</h4>
 
 ### Connect with me:
 
