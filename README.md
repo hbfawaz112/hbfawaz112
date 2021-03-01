@@ -54,8 +54,6 @@ Talk to me about
 - Solving Data structure and algorithm questions in **Java and c++**
 - Basic Networking , Security and Cryptography 
 
-## Hello World!! 🤔
-- 💬 Ask me about anything and everything.
 <hr>
 
 <div>
