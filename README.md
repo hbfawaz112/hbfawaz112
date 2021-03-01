@@ -59,5 +59,8 @@ Talk to me about
 <hr>
 
 <div>
- <img src="https://github-readme-stats.vercel.app/api?username=hbfawaz112&show_icons=truee&theme=radical" alt="hbfawaz112" />
+ <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hbfawaz112&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
+ </a>
+ <img src="https://github-readme-stats.vercel.app/api?username=hbfawaz112&show_icons=truee&theme=radical" alt="hbfawaz112" /> 
 </div> 
