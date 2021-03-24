@@ -56,11 +56,17 @@ Talk to me about
 
 <hr>
 
+## 🌱 I’m currently learning ...
+- **AI and Machine Learning**
+- **Computer Vision**
+- **Theory Of Computation**
+
+ <hr> 
 <div>
- <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hbfawaz112&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
- </a>
- <img src="https://github-readme-stats.vercel.app/api?username=hbfawaz112&show_icons=truee&theme=radical" alt="hbfawaz112" /> 
+ <a href="https://github.com/hbfawaz112/hbfawaz112/">
+  <img  width="43%" src="https://github-readme-streak-stats.herokuapp.com/?user=hbfawaz112&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=hbfawaz112&show_icons=truee&theme=radical" alt="hbfawaz112" /> 
+</a>
  
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hbfawaz112&layout=compact&show_icons=true&theme=vue&hide_border=true&count_private=true&bg_color=101013&title_color=00DCA8&text_color=FDFCFF)
 </div> 
