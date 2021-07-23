@@ -2,8 +2,7 @@
 <h2> Hello There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
  <br>I am Hussein B. Fawaz 🧔</h2>
 
-<h4>I live in Lebanon and  currently studying master's in computer science at Lebanese University.</h4>
-
+<b>I live in Lebanon and  currently studying master's in computer science at Lebanese University.</b>
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/hussein-b-fawaz-21a778140/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="hussein b. fawaz" height="44" width="44" /></a>
