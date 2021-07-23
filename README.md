@@ -1,12 +1,6 @@
 
-<h2> Hello There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-
-
-
-[![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/hbfawaz112) 
- [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hbfawaz112@gmail.com)
- 
-<h2>I am Hussein B. Fawaz 🧔</h2>
+<h2> Hello There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+ <br>I am Hussein B. Fawaz 🧔</h2>
 
 <h4>I live in Lebanon and  currently studying master's in computer science at Lebanese University.</h4>
 
