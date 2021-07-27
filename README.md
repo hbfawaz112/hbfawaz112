@@ -60,11 +60,11 @@ Talk to me about
 <div>
  
  ## 📈 GitHub Stats
- 
+ ![](https://komarev.com/ghpvc/?username=hbfawaz112)
+
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hbfawaz112&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true)](https://hbfawaz.netlify.app/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hbfawaz112&layout=compact&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_border=true&langs_count=8&hide=Blade,Hack)](https://hbfawaz.netlify.app/)
-![](https://komarev.com/ghpvc/?username=hbfawaz112)
 
 <a href="https://github.com/hbfawaz112/hbfawaz112/">
   <img  width="73%" src="https://github-readme-streak-stats.herokuapp.com/?user=hbfawaz112&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
