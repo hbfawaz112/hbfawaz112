@@ -45,7 +45,7 @@ Talk to me about
 - Creating big and small web projects
 - Creating big and small native android development projects using **Java** and cross platform mobile applications using **Flutter**
 - Creating big and small desktop apllications projects using **(Java Swing / JavaFX)**
-- Managing relational and non relational database systems using **(SQL Server / MYSQL / MongoDB)**
+- Managing relational and non relational database systems using **(SQL Server / MYSQL / Mongodb / Firebase (firestore and real-time database) )**
 - Solving Data structure and algorithm questions in **Java and c++**
 - Basic Networking , Security and Cryptography 
 
