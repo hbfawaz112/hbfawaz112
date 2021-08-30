@@ -51,10 +51,11 @@ Talk to me about
 
 <hr>
 
-## 🌱 I’m currently learning ...
+## 🌱 I’m currently learning ... 
+- **Laravel**
+- **Node and MERN stack**
 - **AI and Machine Learning**
 - **Computer Vision**
-- **Theory Of Computation**
 
  <hr> 
 <div>
