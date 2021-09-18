@@ -40,7 +40,7 @@
 ## ⚡ Technologies
 Talk to me about
 - System administration (Linux)
-- Front-end development using **HTML, CSS, JavaScript ( JQeury & React JS)**
+- Front-end development using **HTML, CSS, JavaScript ( JQuery & React JS)**
 - Backend development using **php , asp.net core**
 - Creating big and small web projects
 - Creating big and small native android development projects using **Java** and cross platform mobile applications using **Flutter**
