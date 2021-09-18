@@ -55,7 +55,6 @@ Talk to me about
 - **Laravel**
 - **Node and MERN stack**
 - **AI and Machine Learning**
-- **Computer Vision**
 
  <hr> 
 <div>
