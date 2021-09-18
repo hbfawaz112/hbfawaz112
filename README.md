@@ -70,6 +70,6 @@ Talk to me about
 <a href="https://github.com/hbfawaz112/hbfawaz112/">
   <img  width="73%" src="https://github-readme-streak-stats.herokuapp.com/?user=hbfawaz112&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
 </a>
-
+<img src="https://activity-graph.herokuapp.com/graph?username=hbfawaz112&bg_color=000&color=5e92e6&line=5e92e6&point=03d3d&area=true&hide_border=true" />
 </div> 
 
