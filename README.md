@@ -43,7 +43,6 @@
 
 ## 🌱 I’m currently learning ... 
 - **Laravel**
-- **Node and MERN stack**
 - **AI and Machine Learning**
 
  <hr> 
