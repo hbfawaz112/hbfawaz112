@@ -42,7 +42,7 @@
 
 
 ## 🌱 I’m currently learning ... 
-- **AI - Machine Learning - Computer Vision with streamli**
+- **AI - Machine Learning - Computer Vision **
 
 
  <hr> 
