@@ -42,8 +42,8 @@
 
 
 ## 🌱 I’m currently learning ... 
-- **Laravel**
-- **AI and Machine Learning**
+- **AI - Machine Learning - Computer Vision with streamli**
+
 
  <hr> 
 <div>
