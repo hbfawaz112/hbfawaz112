@@ -61,8 +61,7 @@
 
  [![Cont](https://github-readme-streak-stats.herokuapp.com/?user=hbfawaz112&theme=dark&hide_border=true&background=0D1117&stroke=0000)](https://hbfawaz.netlify.app/)
 
-  [![Cont](https://activity-graph.herokuapp.com/graph?username=hbfawaz112&bg_color=000&color=5e92e6&line=5e92e6&point=03d3d&area=true&hide_border=true)](https://hbfawaz.netlify.app/)
-
+ 
 
 
 </div> 
