@@ -42,10 +42,9 @@
 
 
 ## 🌱 I’m currently learning ... 
-
-- **AI and Machine Learning**
-- **Computer Vision**
-- **Streamlit and data science**
+- **MERN Stack**
+- **AI , Machine Learning and Computer Vision **
+- **data analysis and data science**
 
 
  <hr> 
