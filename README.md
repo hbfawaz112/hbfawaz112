@@ -42,7 +42,6 @@
 
 
 ## 🌱 I’m currently learning ... 
-- **MERN Stack**
 - **AI , Machine Learning and Computer Vision**
 - **Data Analysis and Data Science**
 
