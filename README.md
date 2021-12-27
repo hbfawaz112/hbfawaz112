@@ -2,7 +2,7 @@
 <h2> Hello There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
  <br>I am Hussein B. Fawaz 🧔</h2>
 
-<b>I live in Lebanon and  currently studying master's in computer science at Lebanese University.</b>
+<b>I live in Lebanon and  currently studying master's in data science for risk anaysis at Lebanese University.</b>
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/hussein-b-fawaz-21a778140/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="hussein b. fawaz" height="30" width="30" /></a>
@@ -42,8 +42,10 @@
 
 
 ## 🌱 I’m currently learning ... 
-- **AI , Machine Learning and Computer Vision**
-- **Data Analysis and Data Science**
+- **Big Data Analytics, Hadoop Ecosystem and Risk Analysis**
+- **Machine Learning , Deep Learning and Data Mining Techniques**
+- **Data Science and Use Cases Study (finanace , healthcare, ect..)**
+- **Graphs , Security, and Virtualization concepts**  
 
 
  <hr> 
