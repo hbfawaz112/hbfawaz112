@@ -2,7 +2,7 @@
 <h2> Hello There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
  <br>I am Hussein B. Fawaz 🧔</h2>
 
-<b>I live in Lebanon and  currently studying master's in data science for risk analysis at Lebanese University.</b>
+<b>I am currently a full stack developer intern at Aphelio in Grenoble-Alpes France and finishing my master's in data science for risk analysis at Lebanese University.</b>
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/hussein-b-fawaz-21a778140/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="hussein b. fawaz" height="30" width="30" /></a>
@@ -19,11 +19,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/jquery/jquery-original-wordmark.svg" alt="jqeury" width="30" height="30"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node"width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="flutter" width="30" height="30"/>
- 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"  width="30" height="30" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/>
@@ -37,11 +38,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30" />
 </p>
 
-<h2><a href="https://drive.google.com/file/d/16ecCgSDIUT8Gc9qN2GfSfCGPtYfP9AEh/view?usp=sharing">Check My CV </a></h2>
+<h2><a href="https://drive.google.com/file/d/16Weh9Irr8WXfFSugwrURjU7DoDYvwNxq/view?usp=sharing">Check My CV </a></h2>
 
 
 
 ## 🌱 I’m currently learning ... 
+- **Django Rest framework & Vue.js**
 - **Big Data Analytics, Hadoop Ecosystem and Risk Analysis**
 - **Machine Learning , Deep Learning and Data Mining Techniques**
 - **Data Science and Use Cases Study (finanace , healthcare, ect..)**
