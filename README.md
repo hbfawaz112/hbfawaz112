@@ -2,7 +2,7 @@
 <h2> Hello There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
  <br>I am Hussein B. Fawaz 🧔</h2>
 
-<b>I am currently a full stack developer intern at Aphelio in Grenoble-Alpes France and finishing my master's in data science for risk analysis at Lebanese University.</b>
+<b>I am currently a full stack developer intern at <a href="http://aphelio.eu/"> Aphelio</a> in Grenoble-Alpes France and finishing my master's in data science for risk analysis at Lebanese University.</b>
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/hussein-b-fawaz-21a778140/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="hussein b. fawaz" height="30" width="30" /></a>
