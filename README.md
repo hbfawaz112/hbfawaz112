@@ -1,5 +1,5 @@
 
-<h2> Hello There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+<h2> Hello There
  <br>I am Hussein B. Fawaz 🧔</h2>
 
 <b>I am currently a full stack developer intern at <a href="http://aphelio.eu/"> Aphelio</a> in Grenoble-Alpes France and finishing my master's in data science for risk analysis at Lebanese University.</b>
