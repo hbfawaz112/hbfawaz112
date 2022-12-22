@@ -44,11 +44,7 @@
 
 ## 🌱 I’m currently learning ... 
 - **Django Rest framework & Vue.js**
-- **Big Data Analytics, Hadoop Ecosystem and Risk Analysis**
-- **Machine Learning , Deep Learning and Data Mining Techniques**
-- **Data Science and Use Cases Study (finanace , healthcare, ect..)**
-- **Graphs , Security, and Virtualization concepts**  
-
+- **Web3 and Blockchain development**
 
  <hr> 
 <div>
