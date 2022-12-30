@@ -53,12 +53,12 @@
  ![](https://komarev.com/ghpvc/?username=hbfawaz112)
 
  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hbfawaz112&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true)](https://hbfawaz.netlify.app/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hbfawaz112&layout=compact&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_border=true&langs_count=8&hide=Blade,Hack)](https://hbfawaz.netlify.app/)
-
- [![Cont](https://github-readme-streak-stats.herokuapp.com/?user=hbfawaz112&theme=dark&hide_border=true&background=0D1117&stroke=0000)](https://hbfawaz.netlify.app/)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hbfawaz112&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hbfawaz112&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hbfawaz112&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hbfawaz112&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hbfawaz112&theme=github_dark&utcOffset=8)
+  
  
 
 
