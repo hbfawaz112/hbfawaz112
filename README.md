@@ -60,7 +60,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hbfawaz112&theme=github_dark&utcOffset=8)
   
  
- <h3>My Gitlab : <a href="https://gitlab.com/hbfawaz112"> <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/> 
+ <h3>My Gitlab : <a href="https://gitlab.com/hbfawaz112"> hbfawaz112
   </a></h3>
 
 
