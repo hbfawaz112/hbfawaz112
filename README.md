@@ -58,10 +58,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hbfawaz112&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hbfawaz112&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hbfawaz112&theme=github_dark&utcOffset=8)
-  
  
- <h3>My Gitlab : <a href="https://gitlab.com/hbfawaz112"> hbfawaz112
-  </a></h3>
 
 
 </div> 
