@@ -43,8 +43,8 @@
 
 
 ## 🌱 I’m currently learning ... 
-- **Django Rest framework & Vue.js**
-- **Web3 and Blockchain development**
+- **Angular and Spring Boot**
+- **DevOps**
 
  <hr> 
 <div>
