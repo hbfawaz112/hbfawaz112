@@ -2,7 +2,7 @@
 <h2> Hello There
  <br>I am Hussein B. Fawaz 🧔</h2>
 
-<b>I am currently a full stack developer at <a href="http://aphelio.eu/"> Aphelio</a> in Grenoble-Alpes France.</b>
+<b>I am currently a full stack developer at <a href="https://aphelio.fr/"> Aphelio</a> in Grenoble-Alpes France.</b>
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/hussein-b-fawaz-21a778140/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="hussein b. fawaz" height="30" width="30" /></a>
