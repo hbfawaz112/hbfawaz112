@@ -38,7 +38,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30" />
 </p>
 
-<h2><a href="https://drive.google.com/file/d/1CTWOww5e7KFebWsLJuccSC69_GM-t3yR/view">Check My CV </a></h2>
+<h2><a href="https://drive.google.com/file/d/1tuazsMRG5UM4EFTU0t8C9HtGsQdQVRdW/view?usp=sharing">Check My CV </a></h2>
 
 
 
