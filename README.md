@@ -8,7 +8,6 @@
 <a href="https://www.linkedin.com/in/hussein-b-fawaz-21a778140/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="hussein b. fawaz" height="30" width="30" /></a>
 <a href="https://www.facebook.com/profile.php?id=100011177776172" target="_blank"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="hsein fawaz" height="30" width="30" /></a>
 <a href="https://www.instagram.com/hbfawaz112" target="_blank"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="hbfawaz112" height="30" width="30" /></a>
-<a href="https://wa.me/96176722357" target="_blank"><img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" alt="hbfawaz112" height="30" width="30" /></a>
 <br />
 
 ### Languages and Tools:
