@@ -27,14 +27,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/c/c-line.svg" alt="c" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/cplusplus/cplusplus-line.svg" alt="cpp" width="30" height="30"/>
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/python/python-original.svg" alt="python" width="30" height="30"/>
  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30" />
 </p>
 
 <h2><a href="https://drive.google.com/file/d/1ykrI4vPN92JSC1yJDcBAQ5WW6VyXoqiI/view?usp=drive_link">Check My CV </a></h2>
@@ -47,18 +45,6 @@
 
  <hr> 
 <div>
- 
- ## 📈 GitHub Stats
- ![](https://komarev.com/ghpvc/?username=hbfawaz112)
-
- 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hbfawaz112&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hbfawaz112&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hbfawaz112&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hbfawaz112&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hbfawaz112&theme=github_dark&utcOffset=8)
- 
-
 
 </div> 
 
